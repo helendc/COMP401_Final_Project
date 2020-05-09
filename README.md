@@ -9,3 +9,6 @@ Each sushi plate object is associated with and can report the chef that made it.
 The Belt object is an observable with respect to belt events that represent rotation, a chef placing a plate on the belt, a customer buying a plate off the belt, or a plate expiring due to spoilage.
 
 Below is a screenshot of my UI upon immediately running the Java application, as well as a screenshot after a few rotations. 
+
+![Capture](https://user-images.githubusercontent.com/46548925/81461508-579a7780-917a-11ea-89b8-4ae3060b3f9d.JPG)
+![Capture2](https://user-images.githubusercontent.com/46548925/81461511-59643b00-917a-11ea-87ca-2658a8f3a312.JPG)
